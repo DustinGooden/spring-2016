@@ -7,7 +7,7 @@ bibliography: "resources/bibliography.bib"
 csl: "resources/ieee.csl"
 output:
   pdf_document:
-    fig_cap: yes
+    fig_cap: no
     includes:
       in_header: resources/jkf.header.tex
   html_document:
